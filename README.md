@@ -52,9 +52,9 @@ In this section, I'll list data analytics projects and briefly describe the tool
 **Result:** An interactive dashboard that provides data-driven insights, helping with decision-making and offering appealing visualizations. The dashboard includes analysis of the average ratings and runtime over the decades, showing that the ratings and runtime of movies have increased from the 1900s to the present.
 
 ### Hybrid OLAP (HOLAP) Data Warehouse for DVD Rental Store System
-**Report:**
+**Report:** [HOLAP Data Warehouse for DVD Rental Service.pdf](https://drive.google.com/file/d/1HJWmz_h6h2-bONuatJ4a4uQoBJl3t8_A/view?usp=sharing)
 
-**Looker Studio:**
+**Looker Studio:** [Customer Rental Pattern on DVD Rental Service](https://lookerstudio.google.com/reporting/e84e18e2-68d3-4f78-8c15-daec4de5d39d)
 
 **Goal:** Implement a Hybrid Online Analytical Processing (HOLAP) data warehouse system for a DVD rental service to analyze customer rental behavior patterns. The analysis aims to provide quick and comprehensive insights to support decision-making in improving operational and service efficiency.
 
@@ -76,7 +76,7 @@ This system is designed to handle big data efficiently and provide a flexible an
 
 ### Hybrid Hashing and Neural Network Model for Robust Data Security in Detecting Suspicious Activities on Ethereum Transactions
 
-**Report:**
+**Report:** [Hybrid Hashing and Neural Network to Enhance Ethereum Transactions Security.pdf](https://drive.google.com/file/d/1RBcQ3DS9G4aKJ0ekjlfB716SAFxneTqo/view?usp=sharing)
 
 **Goal:** The main goal of this project is to propose a hybrid model combining the SHA-256 hashing algorithm with a Long Short-Term Memory (LSTM) neural network to enhance data security in detecting anomaly activities in Ethereum transactions.
 
