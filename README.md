@@ -9,8 +9,8 @@ In this repository, I've included a variety of projects that showcase both my te
 My resume in [pdf](https://github.com/padilas/Data-Analyst-Portofolio/blob/main/Asyifa%20Nur%20Fadhilah%20-%20Resume.pdf)
 
 ## Table of Contents
-* About
-* Portfolio Projects
+* [About](https://github.com/padilas/Data-Analyst-Portofolio/tree/main?tab=readme-ov-file#about)
+* [Portfolio Projects](https://github.com/padilas/Data-Analyst-Portofolio/tree/main?tab=readme-ov-file#portfolio-projects)
     - Python
     - SQL
     - R / R Shiny
@@ -21,9 +21,9 @@ My resume in [pdf](https://github.com/padilas/Data-Analyst-Portofolio/blob/main/
       2. [Data + Movies: IMDb's Non-commercial Dataset Visualization](https://public.tableau.com/views/DataMoviesIMDbVisualization/Page01?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
     - Looker Studio
       1. [Analisis Pola Penyewaan DVD Rental Oleh Customer dalam Sistem](https://lookerstudio.google.com/reporting/e84e18e2-68d3-4f78-8c15-daec4de5d39d)
-* Education
-* Certificates
-* Contact
+* [Education](https://github.com/padilas/Data-Analyst-Portofolio/tree/main?tab=readme-ov-file#education)
+* [Certificates](https://github.com/padilas/Data-Analyst-Portofolio/tree/main?tab=readme-ov-file#certificates)
+* [Contacts](https://github.com/padilas/Data-Analyst-Portofolio/tree/main?tab=readme-ov-file#contacts)
 
 ## Portfolio Projects
 In this section, I'll list data analytics projects and briefly describe the tools/technology stack I used to solve the cases.
